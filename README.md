@@ -3,7 +3,9 @@
 
 This repository contains the research paper, code, and resources for Breast Cancer Detection Using Machine Learning, where we propose and evaluate a machine learning framework for accurate breast cancer classification.
 
-📄 Abstract
+##📄 Abstract
+
+
 Breast cancer is one of the leading causes of death among women globally. Early and accurate diagnosis plays a vital role in improving survival rates.
 In this research, we implemented and compared multiple machine learning models on the Wisconsin Breast Cancer Diagnostic (WBCD) dataset to classify tumors as benign or malignant.
 Our experiments demonstrate that the proposed models achieve high accuracy and can assist healthcare professionals in making better clinical decisions.
