@@ -1,4 +1,4 @@
-🧠 Breast Cancer Detection Using Machine Learning
+#🧠 Breast Cancer Detection Using Machine Learning
 
 
 This repository contains the research paper, code, and resources for Breast Cancer Detection Using Machine Learning, where we propose and evaluate a machine learning framework for accurate breast cancer classification.
@@ -8,7 +8,7 @@ Breast cancer is one of the leading causes of death among women globally. Early 
 In this research, we implemented and compared multiple machine learning models on the Wisconsin Breast Cancer Diagnostic (WBCD) dataset to classify tumors as benign or malignant.
 Our experiments demonstrate that the proposed models achieve high accuracy and can assist healthcare professionals in making better clinical decisions.
 
-📊 Dataset
+#📊 Dataset
 Dataset: Wisconsin Breast Cancer Diagnostic Dataset
 
 Source: Kaggle
@@ -17,7 +17,7 @@ Features: 30 numerical features (15 selected for modeling)
 
 Target: Diagnosis → M (malignant), B (benign)
 
-🤖 Machine Learning Models Used
+#🤖 Machine Learning Models Used
 The following models were implemented and evaluated as described in the research paper:
 
 Logistic Regression
@@ -38,7 +38,7 @@ Stacking (RF + XGB + Logistic Regression)
 
 We applied data preprocessing, feature scaling, hyperparameter tuning, and cross-validation for robust model evaluation.
 
-🏆 Key Results
+#🏆 Key Results
 
 | Model                               | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 | ----------------------------------- | ------------ | ------------- | ---------- | ------------ |
